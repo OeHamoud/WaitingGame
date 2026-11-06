@@ -1,6 +1,7 @@
 # WaitingGame
 
 A Python-based X11 input-event monitoring experiment for Linux.
+Created as a last solution to get root password.
 
 ## Features
 
